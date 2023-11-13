@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 22 Oct 2023 17:19:38 at https://meiaentrada.org.br/validador/CZ6D7X/19890426 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://meiaentrada.org.br/validador/CZ6D7X/19890426 -O1 "C:\My Web Sites\Student" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:19:38	Warning: 	File not parsed, looks like binary: https://meiaentrada.org.br/robots.txt
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 7 links scanned, 6 files written (846261 bytes overall) [219934 bytes received at 109967 bytes/sec], 843979 bytes transferred using HTTP compression in 4 files, ratio 25%, 3.5 requests per connection
+(No errors, 1 warnings, 0 messages)
